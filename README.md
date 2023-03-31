@@ -14,6 +14,22 @@
 ## 진행 방식
 - 스터디에 참여하는 인원의 이니셜로된 패키지에 작성한다.
 
+## 레파지토리 구조
+```
+├ member1 (이니셜)
+│  ├ Main.java // (Optional)
+│  ├ Chapter01 // 학습 내용
+│  ├ Chapter02 // 학습 내용
+│  └ ...
+│
+├ member2 (이니셜)
+│  ├ Main.java // (Optional)
+│  ├ Chapter01 // 학습 내용
+│  ├ Chapter02 // 학습 내용
+.
+.
+```
+
 ## 커밋 메세지 작성요령
 ```
 type : Subject
